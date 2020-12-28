@@ -1,9 +1,9 @@
 # Coursera_capstone
 ### This is the repository for the project works within the Coursera IBM Data Science professional certificate course 9.
 
-Inside "week1-2" pyhton notebook, just a sketch of an example notebook.
+Inside "week1-2" pyhton jupyter notebook, just a sketch of an example notebook.
 
-Inside "week3", the **"Segmenting and Clustering Neighborhoods in Toronto"** project work. It is 
+Inside "week3" python jupyter notebook, the **"Segmenting and Clustering Neighborhoods in Toronto"** project work.
 
 Inside "week4" folder the final Capstone Project documentations. The name of the project work is **"The best Airbnb rental entire home / apartment in Sheepshead Bay, Brooklyn NYC"**. There you can find the following documents:
 - **best_airbnb.ipynb** : the python jupyter notebook used for the exploring and clustering ( ***k-means clustering algorithm*** ) the rental entire homes / apartments in the neighborhood of Sheepshead Bay within Brooklyn's borough, NYC;
