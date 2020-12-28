@@ -9,3 +9,5 @@ Inside "week4" folder the final Capstone Project documentations. The name of the
 - **best_sheepsheadbay.ipynb** : the python jupyter notebook used for the exploring and clustering ( ***k-means clustering algorithm*** ) the rental entire homes / apartments in the neighborhood of Sheepshead Bay within Brooklyn's borough, NYC;
 - **report_best_sheepsheadbay.pdf** : the final report aimed to explain each step followed during the project;
 - **pres_best_sheepsheadbay.pptx** : the final presentation of the project work with Microsoft Power Point.
+
+***Important note***: in order to visualize the maps realized with the *folium* library, copy and paste the link of python jupyter notebooks to **Jupyter nbviewer**(https://nbviewer.jupyter.org/)
