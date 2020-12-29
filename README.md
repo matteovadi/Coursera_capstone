@@ -9,8 +9,8 @@ Inside "week4" pdf, you can find the introduction and the dataset description fo
 
 Inside "week5" folder the final Capstone Project documentations. The name of the project work is **"The best Airbnb rental entire home / apartment in Sheepshead Bay, Brooklyn NYC"**. There you can find the following documents:
 - **best_sheepsheadbay.ipynb** : the python jupyter notebook used for the exploring and clustering ( ***k-means clustering algorithm*** ) the rental entire homes / apartments in the neighborhood of Sheepshead Bay within Brooklyn's borough, NYC;
-- **report_best_sheepsheadbay.pdf** : the final report aimed to explain each step followed during the project;
+- **report_sheepsheadbay.pdf** : the final report aimed to explain each step followed during the project;
 
-You can find the final presentation of the project work stored in LinkedIn Pulse at the following website:
+You can find the final presentation of the project work stored in LinkedIn Pulse at the following website: https://www.linkedin.com/pulse/best-airbnb-entire-homeapartment-sheepshead-bay-brooklyn-matteo-vadi/?trackingId=j1Qq%2FNHaQrKGivokhf4N3A%3D%3D 
 
 ***Important note***: in order to visualize the maps realized with the *folium* library, copy and paste the link of python jupyter notebooks (for ***week3*** and ***week5***) to **Jupyter nbviewer** (you can find it here: https://nbviewer.jupyter.org/)
